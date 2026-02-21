@@ -1,1 +1,17 @@
-# SergeyLifinskiy_EsprowsTest
+# JSON Array Parser
+
+## Инструкция по запуску
+
+### Установка зависимостей
+
+```bash
+npm install
+```
+
+### Запуск приложения
+
+```bash
+npm run dev
+```
+
+Приложение автоматически откроется в браузере по адресу `http://localhost:5173`
